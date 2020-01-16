@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossentry id="PD" xml:lang="en">
+	<glossterm>Parkinson's Disease</glossterm>
+	<glossdef>A common, progressive bradykinetic disorder characterized by the
+presence of severe pars-compacta nigral cell loss and accumulation of aggregated alpha-synuclein in
+specific brain stem, spinal cord and cortical regions (Lees, at al, 2009).</glossdef>
+	<glossSurfaceForm>Parkinson's Disease (PD)</glossSurfaceForm>
+	<glossAlt>
+	<glossacronym>PD</glossacronym>
+	</glossAlt>
+</glossentry>
